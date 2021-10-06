@@ -1,5 +1,4 @@
- sup
- currently learning java & spigot
+  currently learning java & spigot. 
  dm me: meta#3791
 
 <!---
